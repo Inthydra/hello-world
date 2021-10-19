@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Just a software engineering student wanting to do small project on github, since it be pretty cool.
